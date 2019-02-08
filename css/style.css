@@ -1,0 +1,10 @@
+img{
+  float: left;
+  clear: both;
+}
+.profile{
+  float: right;
+}
+.project{
+  float: left;
+}
