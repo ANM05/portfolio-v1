@@ -6,3 +6,8 @@ img{
   float: left;
   clear: both;
 }
+body{
+  width: auto;
+  height: auto;
+  background: linear-gradient(to right, #F5EEED 50%, #444141 50%)
+}
