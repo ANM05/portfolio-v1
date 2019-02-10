@@ -1,20 +1,25 @@
-img{
-  float: left;
-}
+
 .profile{
 font-family: sans-serif;
-color: black;
+color: white;
 height: 60px;
 text-align: inherit;
-padding-left: 800px;
+padding-left: 55%;
 }
 .project{
   float: left;
   clear: both;
   font-family: sans-serif;
+  padding-right: 55%
 }
 body{
   width: auto;
   height: auto;
   background: linear-gradient(to right, #F5EEED 50%, #373535 50%)
+}
+.res{
+float: left;
+padding-left: 3%;
+max-width:100%
+height:auto;
 }
