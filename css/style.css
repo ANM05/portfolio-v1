@@ -1,25 +1,28 @@
-
+.header{
+  color: #AE3434;
+}
 .profile{
 font-family: sans-serif;
 color: white;
 height: 60px;
 text-align: inherit;
 padding-left: 55%;
+padding-top: 5%;
 }
 .project{
   float: left;
   clear: both;
   font-family: sans-serif;
-  padding-right: 55%
+  background-color: #AE3434;
+  width: 50%;
+  color: white;
 }
 body{
   width: auto;
   height: auto;
-  background: linear-gradient(to right, #F5EEED 50%, #373535 50%)
+  background: linear-gradient(to right, #F7F4F4 50%, #373535 50%)
 }
 .res{
 float: left;
 padding-left: 3%;
-max-width:100%
-height:auto;
 }
