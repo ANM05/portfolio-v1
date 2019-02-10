@@ -1,13 +1,17 @@
 img{
   float: left;
-  clear: both;
+}
+.profile{
+font-family: sans-serif;
+color: black;
 }
 .project{
   float: left;
   clear: both;
+  font-family: sans-serif;
 }
 body{
   width: auto;
   height: auto;
-  background: linear-gradient(to right, #F5EEED 50%, #444141 50%)
+  background: linear-gradient(to right, #F5EEED 50%, #373535 50%)
 }
