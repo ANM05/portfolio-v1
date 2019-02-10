@@ -4,6 +4,9 @@ img{
 .profile{
 font-family: sans-serif;
 color: black;
+height: 60px;
+text-align: inherit;
+padding-left: 800px;
 }
 .project{
   float: left;
