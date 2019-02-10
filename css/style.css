@@ -27,6 +27,7 @@ body{
 .res{
 float: left;
 padding-left: 3%;
+width: auto;
 }
 .comment{
   padding-top: 20%;
